@@ -3,3 +3,10 @@ title: Sartell Coder Dojo
 show_downloads: true
 github:
   is_project_page: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
