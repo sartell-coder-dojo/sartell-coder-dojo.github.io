@@ -1,4 +1,6 @@
 /_site
 /.idea
+/.jekyll-cache
+/.sass-cache
 /sartell-coder-dojo.github.io.iml
 /Gemfile.lock
