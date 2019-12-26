@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 # About
 
 You do not need to be a programmer to mentor at a Dojo! A lot of mentors are attendees' parents who have no technical 

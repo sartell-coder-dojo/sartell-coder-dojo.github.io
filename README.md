@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: How to contribute to this site
 ---
 
 ## Welcome to GitHub Pages
