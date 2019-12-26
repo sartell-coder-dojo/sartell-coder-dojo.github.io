@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Sartell Coder Dojo
+url: https://sartellcoderdojo.org
 show_downloads: true
 github:
   is_project_page: true
