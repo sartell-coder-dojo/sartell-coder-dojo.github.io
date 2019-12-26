@@ -5,6 +5,7 @@ show_downloads: true
 github:
   is_project_page: true
   repository_url: https://github.com/sartell-coder-dojo/sartell-coder-dojo.github.io
+plugins: [jekyll-youtube]
 defaults:
   -
     scope:
