@@ -12,5 +12,5 @@ Projects can range widely based on the skill level and interests of the students
 {% include youtube.html id="7XQOVKd-vVI" %}
 
 ## Schedule
-The Sartell Coder Dojo is a new coder dojo group that has not yet started. The first meet up is tentatively planned
-for Sunday, February 23 2020 starting at 9 am to noon. The location is yet to be determined.
+The Sartell Coder Dojo is a new Coder Dojo group that has not yet started. The first session is planned for 
+Saturday, June 13 2020 at 9:30-11:30am in the Sartell Community Center.

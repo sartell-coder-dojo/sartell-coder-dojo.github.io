@@ -10,7 +10,9 @@ of knowledge who provide support and encouragement to CoderDojo youth (Ninjas). 
 who focus on organising the events. 
 
 ## Location
-To be determined
+Sartell Community Center  
+850 19th Street South  
+Sartell, MN 56377  
 
 ## Regular Mentors
 Joe Degiovanni
