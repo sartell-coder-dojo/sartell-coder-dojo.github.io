@@ -28,6 +28,8 @@ Sartell Community Center
 850 19th Street South  
 Sartell, MN 56377  
 
+{% include googlemap.html src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5802.834433161546!2d-94.22158065431418!3d45.59431222134871!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2dca6e188a21f196!2sSartell%20Community%20Center!5e0!3m2!1sen!2sus!4v1579043684714!5m2!1sen!2sus" %}
+
 ## When
 The first dojo meeting is tentatively planned for June 13th, 2020 from 9:30-11:30am, and then continuing to meet every 
 second Saturday of the month at the same time going forward.
