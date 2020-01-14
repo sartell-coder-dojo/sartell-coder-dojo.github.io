@@ -31,3 +31,10 @@ Sartell, MN 56377
 ## When
 The first dojo meeting is tentatively planned for June 13th, 2020 from 9:30-11:30am, and then continuing to meet every 
 second Saturday of the month at the same time going forward.
+
+  
+---
+**Please bring**:
+   
+* A laptop. Borrow one from somebody if needs be.
+* **A parent! (Very important). If you are 12 or under, your parent must stay with you during the session.**
