@@ -2,6 +2,10 @@ body {
   font-family: "Libre Franklin", sans-serif;
 }
 
+#footer_rule {
+  clear: both;
+}
+
 #logo {
   width: 42px;
   border: none;
@@ -24,4 +28,26 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+img[src*='#left'] {
+  float: left;
+  width: 25%;
+  border: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+img[src*='#right'] {
+  float: right;
+  width: 25%;
+  border: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+  border: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
 }

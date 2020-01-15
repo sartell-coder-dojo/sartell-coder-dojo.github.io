@@ -8,6 +8,7 @@ Sartell Coder Dojo is a free admission volunteer run youth (ages 7-17) programmi
 resources are available for Ninjas on arrival. Additionally, mentors are there to help get started and assist with 
 troubleshooting when things aren't working.
 
+![ninja](/img/CD-Character-Female-2-2.png#right)
 Each session lasts two hours and follows the following format:
  * **Welcome and Introductions (5 minutes)**: Introduce mentors and Ninjas and discuss expectations.
  * **Icebreakers (5-15 minutes)**: To both introduce new Ninjas to other Dojo attendees and to create opportunities for 
@@ -19,6 +20,8 @@ Each session lasts two hours and follows the following format:
                                                    
    Ninjas can work together in groups or alone, depending on the nature of their project and their preferences. They 
    are encouraged to keep in mind CoderDojo's principle of "Ask three, then me" and to help each other solve problems.
+   
+   ![ninja](/img/CD-Character-Male-1-11.png#right)
  * **Showcase your work (10-20 minutes)**: If they wish, Ninjas can take the opportunity to demonstrate what they built. 
  * **Wrap up (5 minutes)**: This is when we thank everyone for coming and make any announcements regarding future 
    sessions
@@ -35,5 +38,6 @@ The first dojo meeting is tentatively planned for June 13th, 2020 from 9:30-11:3
 second Saturday of the month at the same time going forward.
 
 ## What to bring
+![ninja](/img/CD-Character-Female-1-6.png#left)
 * A laptop. Borrow one from somebody if needs be.
 * **A parent! (Very important). If you are 12 or under, your parent must stay with you during the session.**

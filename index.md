@@ -3,6 +3,8 @@ title: Welcome
 ---
 
 # Welcome
+
+![ninja](/img/CD-Character-Female-2-4.png#right)
 The Sartell Coder Dojo is one of thousands of worldwide similar [Coder Dojos](https://coderdojo.com/).
 Each coder dojo is a club for young people (ages 7-17) to practice programming in a fun and relaxed
 environment. Mentors and other learners are available to help facilitate self-directed programming projects.
