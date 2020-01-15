@@ -1,3 +1,16 @@
+body {
+  font-family: "Libre Franklin", sans-serif;
+}
+
+#logo {
+  width: 42px;
+  border: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  float: left;
+  margin: auto;
+}
+
 .iframe-container {
   position: relative;
   width: 100%;
