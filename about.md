@@ -3,12 +3,12 @@ title: About
 ---
 
 ## What
-A local, free admission, and volunteer run youth (ages 7-17) programming club. Club attendees, Coder Dojo calls them
+Sartell Coder Dojo is a free admission volunteer run youth (ages 7-17) programming club. Club members, referred to as
 **Ninjas**, come to learn about programming. Ninjas can work in groups or individually. Starter projects and other 
-resources are available for Ninjas. Additionally, Volunteer mentors are there to help get started and assist with 
+resources are available for Ninjas on arrival. Additionally, mentors are there to help get started and assist with 
 troubleshooting when things aren't working.
 
-The session lasts two hours and follows the following format:
+Each session lasts two hours and follows the following format:
  * **Welcome and Introductions (5 minutes)**: Introduce mentors and Ninjas and discuss expectations.
  * **Icebreakers (5-15 minutes)**: To both introduce new Ninjas to other Dojo attendees and to create opportunities for 
    Ninjas to interact with one another, we will run icebreaker activities whenever several new Ninjas join a session, 
@@ -34,9 +34,6 @@ Sartell, MN 56377
 The first dojo meeting is tentatively planned for June 13th, 2020 from 9:30-11:30am, and then continuing to meet every 
 second Saturday of the month at the same time going forward.
 
-  
----
-**Please bring**:
-   
+## What to bring
 * A laptop. Borrow one from somebody if needs be.
 * **A parent! (Very important). If you are 12 or under, your parent must stay with you during the session.**
