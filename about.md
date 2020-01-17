@@ -3,7 +3,7 @@ title: About
 ---
 
 ## What
-Sartell Coder Dojo is a free admission volunteer run youth (ages 7-17) programming club. Club members, referred to as
+Sartell CoderDojo is a free admission volunteer run youth (ages 7-17) programming club. Club members, referred to as
 **Ninjas**, come to learn about programming. Ninjas can work in groups or individually. Starter projects and other 
 resources are available for Ninjas on arrival. Additionally, mentors are there to help get started and assist with 
 troubleshooting when things aren't working.
