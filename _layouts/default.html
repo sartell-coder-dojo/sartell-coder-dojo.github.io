@@ -9,7 +9,8 @@
   <link rel="stylesheet" type="text/css" media="screen"
         href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
-  <title>{{page.title | default: site.title}}</title>
+  {% capture title %}{{ site.title }} - {{ page.title }}{% endcapture %}
+  <title>{{title}}</title>
 </head>
 
 <body>
