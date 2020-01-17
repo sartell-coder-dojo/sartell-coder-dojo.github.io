@@ -2,7 +2,7 @@
 title: Mentoring
 ---
 
-## Mentors
+# Mentors
 ![mentor](/img/CD-Character-Male-4-1.png#right)
 **Volunteers who provide support, guidance, and encouragement to the Ninjas so they can complete their projects and develop their skills.**
 

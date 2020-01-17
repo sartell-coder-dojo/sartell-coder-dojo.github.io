@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-## Welcome
+# Welcome
 
 ![ninja](/img/CD-Character-Female-2-4.png#right)
 The Sartell CoderDojo is one of thousands of worldwide similar [CoderDojos](https://coderdojo.com/).
