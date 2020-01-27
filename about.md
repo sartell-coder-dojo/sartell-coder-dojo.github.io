@@ -40,5 +40,6 @@ second Saturday of the month at the same time going forward.
 
 ## What should I bring?
 ![ninja](/img/CD-Character-Female-1-6.png#left)
-* A laptop. Borrow one from somebody if needs be.
+* A laptop. Borrow one from somebody if needs be. You will need Admin rights to the laptop (or bring someone with who does)
+  because some projects will require software installed before starting coding.
 * **A parent! (Very important). If you are 12 or under, your parent must stay with you during the session.**
