@@ -16,7 +16,7 @@ Each session lasts two hours and follows the following format:
    Ninjas to interact with one another, we will run icebreaker activities whenever several new Ninjas join a session, 
    and every so often even with established Ninjas.
  * **Make something cool with code (90 minutes)**: Ninjas work with the support of mentors to produce something with
-   code. This can be a project from the CoderDojo resources site, an online coding tutorial, or it can be something the 
+   code. This can be a project from the [CoderDojo resources site](https://projects.raspberrypi.org/en/coderdojo), an online coding tutorial, or it can be something the 
    Ninjas, with guidance from their mentors, have imagined and now want to create. 
                                                    
    Ninjas can work together in groups or alone, depending on the nature of their project and their preferences. They 
