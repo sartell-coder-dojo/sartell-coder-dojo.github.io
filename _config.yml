@@ -6,8 +6,6 @@ github:
   is_project_page: true
   repository_url: https://github.com/sartell-coder-dojo/sartell-coder-dojo.github.io
 
-source: ./src
-
 defaults:
   -
     scope:
