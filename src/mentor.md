@@ -17,12 +17,12 @@ Helping young people develop new skills and explore their creativity is very rew
 ## Requirements
 - All Mentors are subject to a **background check**
 - All Mentors must take an online **[Child Safegaurding E-Learning Module](https://www.raspberrypi.org/safeguarding/e-learning-module/)**
-- All Mentors must follow the [Code of Behavior](/resources/Raspberry_Pi_Foundation-safeguarding-code_of_behaviour.pdf) and
-  the [Social media and communication guidelines](/resources/Social-media-and-communication-Guidelines1.pdf)
+- All Mentors must follow the [Code of Behavior](/src/resources/Raspberry_Pi_Foundation-safeguarding-code_of_behaviour.pdf) and
+  the [Social media and communication guidelines](/src/resources/Social-media-and-communication-Guidelines1.pdf)
 
 Failure to follow these guidelines can result in a ban from the club. 
 
-![mentor](/img/CD-Character-Female-4-1.png#left)
+![mentor](/src/img/CD-Character-Female-4-1.png#left)
 **Ways to help:**
 * You could become a mentor and help young people learn to code. To help beginners, you don’t even need technical skills!
 * You could help with setting up the space and recording attendance for the Dojo sessions.
