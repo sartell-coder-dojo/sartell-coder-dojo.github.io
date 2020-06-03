@@ -85,3 +85,8 @@ img[src*='#center'] {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
+#announcement {
+  background-color: yellow;
+  text-align: center;
+  font-weight: 800;
+}
