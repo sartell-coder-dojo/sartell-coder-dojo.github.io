@@ -9,7 +9,7 @@ The Sartell CoderDojo is one of thousands of worldwide similar [CoderDojos](http
 Each CoderDojo is a club for young people (ages 7-17) to practice programming in a fun and relaxed
 environment. Mentors and other learners are available to help facilitate self-directed programming projects.
 
-{% include button.html text="Sign Up" href="https://zen.coderdojo.com/dojos/us/sartell-mn/sartell-mn-sartell-community-center" %}
+{% include button.html text="Sign Up For Free" href="https://zen.coderdojo.com/dojos/us/sartell-mn/sartell-mn-sartell-community-center" %}
 
 Projects can range widely based on the skill level and interests of the students, referred to as "ninjas".
 

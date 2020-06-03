@@ -6,6 +6,9 @@ title: Mentoring
 ![mentor](/img/CD-Character-Male-4-1.png#right)
 **Volunteers who provide support, guidance, and encouragement to the Ninjas so they can complete their projects and develop their skills.**
 
+
+{% include button.html text="Sign Up To Mentor" href="https://zen.coderdojo.com/dojos/us/sartell-mn/sartell-mn-sartell-community-center" %}
+
 Many mentors do not have technical skills, but that doesn’t stop them from having a huge impact on the Ninjas at their Dojo. Anyone who is passionate about technology and shares the CoderDojo spirit can be a mentor!
 
 The role of a mentor is not the same as that of a teacher or lecturer. Mentors help Ninjas work through problems and encourage their efforts rather than directly delivering solutions. Dojos benefit greatly from the generosity of these individuals who foster the learning of young digital creators and explorers.
