@@ -16,5 +16,5 @@ Projects can range widely based on the skill level and interests of the students
 {% include youtube.html id="7XQOVKd-vVI" %}
 
 ## Schedule
-The Sartell CoderDojo is a new CoderDojo group that has not yet started. The second session is planned for 
-Saturday, July 11 2020 at 9:30-11:30am in the Sartell Community Center.
+The Sartell CoderDojo is a new CoderDojo group that has just recently started. The second session is planned for 
+Saturday, July 11 2020 at 9:30-11:30am in the Sartell Community Center. Going forward the second Saturday of the month at the same time and place is planned.
