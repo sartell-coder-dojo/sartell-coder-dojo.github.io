@@ -10,10 +10,12 @@ This section will show our java projects.
 ### Greenfoot
 Greenfoot is a java based game or animation creation platform. The following is a list of projects we've worked on:
 
-- [Echo Shooter Game](https://sartellcoderdojo.org/echo-shooter/): This is a zombie shooter game
+- [Echo Shooter Game](/echo-shooter): This is a zombie shooter game
 
 ## Python
-This section will show our python projects
+This section will show our python projects. The list below shows the python projects we've worked on:
+
+- [Python GUI](/python-gui): This is an intro to building Graphical User Interfaces using Python
 
 ## Web
 This section will show our web projects
