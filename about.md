@@ -42,7 +42,7 @@ Sartell, MN 56377
 
 ## When is it?
 
-The club meets from 9:30-11:30am on the first Saturday of every month.
+The club meets from 9:30-11:30am on the first Saturday of every month. You are welcome to come as frequent or infrequent as you like.
 
 ## What should I bring?
 
