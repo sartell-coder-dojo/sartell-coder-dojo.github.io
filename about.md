@@ -42,8 +42,7 @@ Sartell, MN 56377
 
 ## When is it?
 
-The next meeting is planned for July 11th, 2020 from 9:30-11:30am, and then continuing to meet every
-second Saturday of the month at the same time going forward.
+The club meets from 9:30-11:30am on the first Saturday of every month.
 
 ## What should I bring?
 
