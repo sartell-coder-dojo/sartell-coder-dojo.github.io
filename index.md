@@ -1,7 +1,7 @@
 ---
 title: Welcome
-
 ---
+
 # Welcome
 
 ![ninja](/img/CD-Character-Female-2-4.png#right)
