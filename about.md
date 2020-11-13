@@ -32,7 +32,7 @@ Each session lasts two hours and follows the following format:
 
 ## Where is it?
 
-**Sessions will be held virtually while COVID-19 cases continue to grow. However, At some point in the future we will return to meeting in person at the Sartell Community Center when it is safe to do so.**
+> **Sessions will be held virtually while COVID-19 cases continue to grow. However, At some point in the future we will return to meeting in person at the Sartell Community Center when it is safe to do so.**
 
 Sartell Community Center - Maker Room
 850 19th Street South  
