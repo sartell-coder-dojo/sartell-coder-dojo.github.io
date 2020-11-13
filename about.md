@@ -1,7 +1,7 @@
 ---
 title: About
-
 ---
+
 # Overview
 
 Sartell CoderDojo is a free admission volunteer run youth (ages 7-17) programming club. Club members, referred to as
